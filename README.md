@@ -19,11 +19,3 @@ I focus on creating smooth interfaces and efficient systems that make tech feel 
 **Languages:** Python · JavaScript · Java · C++ 
 **Frameworks:** React · Node.js · Express · Bootstrap · TailwindCSS
 **Other Skills:** UI/UX Design · Prototyping · Version Control
-
----
-
-### 🌸 A Bit of Me
-
-💭 Deep thinker | 💻 Code dreamer | 🎶 Music lover | 🐶 Dog enthusiast
-
-✨ “Design with purpose, code with passion.” ✨
