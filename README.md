@@ -16,16 +16,9 @@ I focus on creating smooth interfaces and efficient systems that make tech feel 
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · JavaScript · Java · C++ · PHP
+**Languages:** Python · JavaScript · Java · C++ 
 **Frameworks:** React · Node.js · Express · Bootstrap · TailwindCSS
 **Other Skills:** UI/UX Design · Prototyping · Version Control
-
----
-
-### 📈 GitHub Overview
-
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=agahirenikita\&show_icons=true\&theme=calm_pink)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agahirenikita\&layout=compact\&theme=calm_pink)
 
 ---
 
